@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile img {
+    width: 20 px;
+    height: 20px;
+    border-radius: 30%;
+    margin-right: 20px;
+  }
+  
+  .search input[type="text"] {
+    padding: 5px;
+  }
+  
+  .search button {
+    padding: 5px 10px;
+    background-color: #fff;
+    border: none;
+    color: #3b5998;
+  }
+  
+  nav {
+    background-color: #f1f1f1;
+    padding: 
+  }
